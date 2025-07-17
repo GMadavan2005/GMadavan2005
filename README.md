@@ -84,6 +84,4 @@ A machine learning model that predicts heart disease using patient data:
 ## 📬 Contact Me
 
 📧 madavan200516@gmail.com  
-🌐 [My GitHub Dashboard](https://gmadavan2005.github.io/PROFILE/)
-
 > 💬 “Stay curious. Stay kind. Build cool stuff.”
