@@ -81,15 +81,6 @@ A machine learning model that predicts heart disease using patient data:
 
 ---
 
-## 🚀 Competitive Progress
-
-- 🧩 *LeetCode*: Solved 150+ coding problems  
-- 🧠 *HackerRank*: 5⭐ in Python & Problem Solving  
-- ☁ *Cloud*: AWS AI/ML Certified + OCI  
-- 🛠 *ServiceNow*: Certified System Administrator (CSA)
-
----
-
 ## 📬 Contact Me
 
 📧 madavan200516@gmail.com  
