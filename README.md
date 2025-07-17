@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm G. Madavan
 
-<!--
-**GMadavan2005/GMadavan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at SRM IST  
+🧠 Passionate about AI, ML, and DevOps  
+🚀 Always learning, always building  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 My GitHub Dashboard
+
+👉 [Click here to view my personal dashboard](https://gmadavan2005.github.io/PROFILE/)
+
+---
+
+## 📊 GitHub Stats
+
+![Madavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMadavan2005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMadavan2005&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=GMadavan2005&theme=radical)
