@@ -16,16 +16,37 @@
 
 ---
 
-## 🌐 My GitHub Dashboard
-👉 [Visit my GitHub Dashboard](https://gmadavan2005.github.io/PROFILE)
+---
+
+## 💼 Projects
+
+### 🤖 AI/LLM-Enabled Assistive Robot Car
+A smart robot car designed to help elderly and visually impaired individuals with:
+- Real-time tracking
+- Obstacle detection
+- Voice interaction using ChatGPT API  
+🔧 Built with: Raspberry Pi, OpenCV, Python, Ultrasonic Sensors
 
 ---
+
+### ❤️ Heart Disease Prediction using ML
+A machine learning model that predicts the likelihood of heart disease based on patient data:
+- Data preprocessing with Pandas
+- Used Scikit-learn classifiers to improve early diagnosis  
+🔧 Built with: Python, Pandas, Scikit-learn, ML algorithms
+
+---
+
 
 ## 📊 GitHub Stats
 
 ![Madavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMadavan2005&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMadavan2005&layout=compact&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=GMadavan2005&theme=radical)
+## 📈 GitHub Activity Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GMadavan2005&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true)
+
+---
 
 ---
 
