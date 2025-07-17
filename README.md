@@ -1,8 +1,19 @@
 # 👋 Hi, I'm G. Madavan
 
-🎓 Computer Science Student @ SRM IST  
-🧠 AI/ML | DevOps | Cloud Enthusiast  
-🚀 Always learning, always building, always leveling up.
+---
+
+## 👋 About Me
+
+I'm **G. Madavan**, a Computer Science student at **SRM IST**, passionate about building meaningful tech that solves real-world problems.  
+I love working with **AI/ML, Cloud (AWS/OCI)**, and **DevOps**, and I enjoy crafting smart solutions — from assistive robots to disease prediction systems.
+
+I'm hands-on, curious, and always learning.  
+Whether it's coding, deploying, or experimenting with new tech, I believe in **turning ideas into impact**.
+
+> 💡 “Technology should not just be smart — it should be kind.”
+
+---
+
 
 ---
 
