@@ -18,24 +18,35 @@
 
 ---
 
+---
+
 ## 💼 Projects
 
 ### 🤖 AI/LLM-Enabled Assistive Robot Car
-A smart robot car designed to help elderly and visually impaired individuals with:
-- Real-time tracking
-- Obstacle detection
-- Voice interaction using ChatGPT API  
-🔧 Built with: Raspberry Pi, OpenCV, Python, Ultrasonic Sensors
+A smart assistive robot car designed to support the elderly and visually impaired with:
+- Real-time object detection, obstacle avoidance, and voice interaction
+- Built using OpenCV, Python, sensors, and ChatGPT API
+
+🔗 Repositories:
+- [Object Detection for Robot Car](https://github.com/GMadavan2005/object-detection-for-robot-car)
+- [Self Driving Car Simulation](https://github.com/GMadavan2005/self_driving_car_sim)
 
 ---
 
 ### ❤️ Heart Disease Prediction using ML
-A machine learning model that predicts the likelihood of heart disease based on patient data:
-- Data preprocessing with Pandas
-- Used Scikit-learn classifiers to improve early diagnosis  
-🔧 Built with: Python, Pandas, Scikit-learn, ML algorithms
+Machine learning model that predicts heart disease based on patient data:
+- Data processing with Pandas, Scikit-learn models for prediction
+- Supports early detection and healthcare intervention
+
+🔗 Repository:
+- [Heart Disease Detection](https://github.com/GMadavan2005/Heart-Disease-Detection-main)
 
 ---
+
+## 📈 GitHub Activity Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GMadavan2005&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true)
+
 
 
 ## 📊 GitHub Stats
