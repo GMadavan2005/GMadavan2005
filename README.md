@@ -65,4 +65,3 @@ Machine learning model that predicts heart disease based on patient data:
 
 ### 📬 Reach me via:
 📧 madavan200516@gmail.com
-6369671178
