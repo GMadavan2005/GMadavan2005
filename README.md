@@ -27,9 +27,6 @@ Whether it's coding, deploying, or experimenting with new tech, I believe in **t
 
 ---
 
----
-
----
 
 ## 💼 Projects
 
@@ -65,7 +62,7 @@ Machine learning model that predicts heart disease based on patient data:
 
 ---
 
----
 
 ### 📬 Reach me via:
 📧 madavan200516@gmail.com
+6369671178
