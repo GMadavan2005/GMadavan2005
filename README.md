@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=CS+Student+%40+SRM+IST;AI%2FML+Enthusiast;DevOps+%7C+Cloud+%7C+AWS+Learner;Open+Source+Contributor)](https://github.com/GMadavan2005)
 
-🎓 Computer Science Student @ SRM IS 
+🎓 Computer Science Student @ SRM IST 
 🧠 AI/ML | DevOps | Cloud Enthusiast  
 🚀 Always learning, building, and creating impact with code
 
