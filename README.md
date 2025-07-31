@@ -4,7 +4,7 @@
 
 🎓 Computer Science Student @ SRM IST 
 🧠 AI/ML | DevOps | Cloud Enthusiast  
-🚀 Always learning, building, and creating impact with cod
+🚀 Always learning, building, and creating impact with code
 
 ---
 
