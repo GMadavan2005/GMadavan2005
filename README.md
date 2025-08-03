@@ -29,8 +29,7 @@ When I’m not coding, I’m leveling up my skills on LeetCode, HackerRank, and 
 
 ---
 
-## 💻 Tech Stack
-
+## 💻 Tech Stacks
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-00c8b5?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
