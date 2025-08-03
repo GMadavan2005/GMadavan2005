@@ -65,7 +65,7 @@ A machine learning model that predicts heart disease using patient data:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stat
 
 ![Madavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMadavan2005&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GMadavan2005&layout=compact&theme=radical)
