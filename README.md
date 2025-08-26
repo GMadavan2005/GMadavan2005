@@ -63,7 +63,7 @@ A machine learning model that predicts heart disease using patient data:
 - [Heart Disease Detection](https://github.com/GMadavan2005/Heart-Disease-Detection-main)
 
 ---
-###E-COMMERCE GROCERY MANAGEMENT SYSTEM
+### 🍎E-COMMERCE GROCERY MANAGEMENT SYSTEM
 -Proposed an e-commerce grocery management system to modernize and digitize operations for Om Sakthi 
 Stores, a small shop previously without a management system
 -Conceptualized and built a comprehensive e-commerce platform to enable autonomous management of 
