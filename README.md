@@ -70,7 +70,7 @@ Stores, a small shop previously without a management system
 products, categories, sales, and orders, drastically improving efficiency and financial oversight
 
 🔗 Repo:
-- [Heart Disease Detection](https://github.com/GMadavan2005/Heart-Disease-Detection-main)
+- [E-COMMERCE GROCERY MANAGEMENT SYSTEM](https://github.com/GMadavan2005/GROCERY-MANGEMENT-SYSTEM)
 
 ## 📈 GitHub Stat
 
