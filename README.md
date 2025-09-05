@@ -63,14 +63,12 @@ A machine learning model that predicts heart disease using patient data:
 - [Heart Disease Detection](https://github.com/GMadavan2005/Heart-Disease-Detection-main)
 
 ---
-### 🍎E-COMMERCE GROCERY MANAGEMENT SYSTEM
--Proposed an e-commerce grocery management system to modernize and digitize operations for Om Sakthi 
-Stores, a small shop previously without a management system
--Conceptualized and built a comprehensive e-commerce platform to enable autonomous management of 
-products, categories, sales, and orders, drastically improving efficiency and financial oversight
+### 🏅CERTIFICATE VERIFICATION SYSTEM
+-Proposed and built a comprehensive certificate management system to modernize and digitize the verification process for professional credentials, providing a secure and reliable platform for organizations and individuals.
+-Conceptualized and developed a full-stack application to enable autonomous management of certificate data, including verification, addition, and deletion of records, drastically improving the efficiency and integrity of credential authentication.
 
 🔗 Repo:
-- [E-COMMERCE GROCERY MANAGEMENT SYSTEM](https://github.com/GMadavan2005/GROCERY-MANGEMENT-SYSTEM)
+- [certificate_validation--system](https://github.com/GMadavan2005/certificate_validation--system)
 
 ## 📈 GitHub Stat
 
