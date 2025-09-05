@@ -68,7 +68,7 @@ A machine learning model that predicts heart disease using patient data:
 -Conceptualized and developed a full-stack application to enable autonomous management of certificate data, including verification, addition, and deletion of records, drastically improving the efficiency and integrity of credential authentication.
 
 🔗 Repo:
-- [certificate_validation--system](https://github.com/GMadavan2005/certificate_validation--system)
+- [certificate_verification--system](https://github.com/GMadavan2005/certificate_validation--system)
 
 ## 📈 GitHub Stat
 
