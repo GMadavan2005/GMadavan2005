@@ -65,6 +65,7 @@ A machine learning model that predicts heart disease using patient data:
 ---
 ### 🏅CERTIFICATE VERIFICATION SYSTEM
 -Proposed and built a comprehensive certificate management system to modernize and digitize the verification process for professional credentials, providing a secure and reliable platform for organizations and individuals.
+
 -Conceptualized and developed a full-stack application to enable autonomous management of certificate data, including verification, addition, and deletion of records, drastically improving the efficiency and integrity of credential authentication.
 
 🔗 Repo:
